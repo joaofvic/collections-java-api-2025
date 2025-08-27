@@ -1,4 +1,4 @@
-package list.Search;
+package list.SearchInList;
 
 public class Book {
 
